@@ -1,0 +1,4936 @@
+{
+    "hospitals": [
+        {
+            "id": "hosp_che_01",
+            "name": "Apollo Main Hospital (Greams Road)",
+            "city": "Chennai",
+            "region": "Chennai Central Zone",
+            "latitude": 13.0858,
+            "longitude": 80.242,
+            "rating": 4.9,
+            "reviews_count": 5800,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Chennai",
+            "emergency_hotline": "+91-67-8756-9887",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Chennai offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_che_02",
+            "name": "SIMS Hospital (SRM Institutes)",
+            "city": "Chennai",
+            "region": "Chennai Central Zone",
+            "latitude": 13.0753,
+            "longitude": 80.3048,
+            "rating": 4.8,
+            "reviews_count": 4750,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Chennai",
+            "emergency_hotline": "+91-62-5474-2249",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Chennai offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_che_03",
+            "name": "MGM Healthcare",
+            "city": "Chennai",
+            "region": "Chennai Central Zone",
+            "latitude": 13.1059,
+            "longitude": 80.2519,
+            "rating": 4.9,
+            "reviews_count": 4900,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Chennai",
+            "emergency_hotline": "+91-75-2207-9326",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Chennai offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_che_04",
+            "name": "Sri Ramachandra Medical Centre (SRMC)",
+            "city": "Chennai",
+            "region": "Chennai Central Zone",
+            "latitude": 13.108,
+            "longitude": 80.2743,
+            "rating": 4.7,
+            "reviews_count": 4150,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Chennai",
+            "emergency_hotline": "+91-95-4937-4113",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Chennai offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_che_05",
+            "name": "Fortis Malar Hospital",
+            "city": "Chennai",
+            "region": "Chennai Central Zone",
+            "latitude": 13.0685,
+            "longitude": 80.2394,
+            "rating": 4.8,
+            "reviews_count": 7500,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Chennai",
+            "emergency_hotline": "+91-61-8355-4217",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Chennai offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_che_06",
+            "name": "Kauvery Hospital Alwarpet",
+            "city": "Chennai",
+            "region": "Chennai Central Zone",
+            "latitude": 13.0734,
+            "longitude": 80.2432,
+            "rating": 4.8,
+            "reviews_count": 5050,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Chennai",
+            "emergency_hotline": "+91-46-9189-4892",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Chennai offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_che_07",
+            "name": "Dr. Rela Institute & Medical Centre",
+            "city": "Chennai",
+            "region": "Chennai Central Zone",
+            "latitude": 13.113,
+            "longitude": 80.2993,
+            "rating": 4.7,
+            "reviews_count": 4000,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Chennai",
+            "emergency_hotline": "+91-24-4942-4739",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Chennai offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_che_08",
+            "name": "Gleneagles Global Health City",
+            "city": "Chennai",
+            "region": "Chennai Central Zone",
+            "latitude": 13.0734,
+            "longitude": 80.2485,
+            "rating": 4.8,
+            "reviews_count": 4150,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Chennai",
+            "emergency_hotline": "+91-76-4437-1565",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Chennai offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_che_09",
+            "name": "MIOT International",
+            "city": "Chennai",
+            "region": "Chennai Central Zone",
+            "latitude": 13.0941,
+            "longitude": 80.2419,
+            "rating": 4.6,
+            "reviews_count": 3400,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Chennai",
+            "emergency_hotline": "+91-33-5246-7064",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Chennai offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_che_10",
+            "name": "Rajiv Gandhi Government General Hospital",
+            "city": "Chennai",
+            "region": "Chennai Central Zone",
+            "latitude": 13.0764,
+            "longitude": 80.2609,
+            "rating": 4.7,
+            "reviews_count": 6750,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Chennai",
+            "emergency_hotline": "+91-52-2310-7303",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Chennai offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_mum_01",
+            "name": "Kokilaben Dhirubhai Ambani Hospital",
+            "city": "Mumbai",
+            "region": "Mumbai Central Zone",
+            "latitude": 19.0748,
+            "longitude": 72.9079,
+            "rating": 4.9,
+            "reviews_count": 5800,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Mumbai",
+            "emergency_hotline": "+91-33-9147-3034",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Mumbai offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_mum_02",
+            "name": "Tata Memorial Hospital",
+            "city": "Mumbai",
+            "region": "Mumbai Central Zone",
+            "latitude": 19.0886,
+            "longitude": 72.8977,
+            "rating": 4.8,
+            "reviews_count": 4750,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Mumbai",
+            "emergency_hotline": "+91-88-5399-6725",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Mumbai offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_mum_03",
+            "name": "Fortis Hospital Mulund",
+            "city": "Mumbai",
+            "region": "Mumbai Central Zone",
+            "latitude": 19.0843,
+            "longitude": 72.911,
+            "rating": 4.9,
+            "reviews_count": 4900,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Mumbai",
+            "emergency_hotline": "+91-26-7770-3409",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Mumbai offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_mum_04",
+            "name": "Lilavati Hospital & Research Centre",
+            "city": "Mumbai",
+            "region": "Mumbai Central Zone",
+            "latitude": 19.0433,
+            "longitude": 72.865,
+            "rating": 4.7,
+            "reviews_count": 4150,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Mumbai",
+            "emergency_hotline": "+91-13-5170-2763",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Mumbai offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_mum_05",
+            "name": "Breach Candy Hospital",
+            "city": "Mumbai",
+            "region": "Mumbai Central Zone",
+            "latitude": 19.0759,
+            "longitude": 72.8611,
+            "rating": 4.8,
+            "reviews_count": 7500,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Mumbai",
+            "emergency_hotline": "+91-62-4029-5415",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Mumbai offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_mum_06",
+            "name": "Hinduja Hospital Mahim",
+            "city": "Mumbai",
+            "region": "Mumbai Central Zone",
+            "latitude": 19.0527,
+            "longitude": 72.8454,
+            "rating": 4.8,
+            "reviews_count": 5050,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Mumbai",
+            "emergency_hotline": "+91-21-6409-1780",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Mumbai offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_mum_07",
+            "name": "Jaslok Hospital & Research Centre",
+            "city": "Mumbai",
+            "region": "Mumbai Central Zone",
+            "latitude": 19.1103,
+            "longitude": 72.8777,
+            "rating": 4.7,
+            "reviews_count": 4000,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Mumbai",
+            "emergency_hotline": "+91-14-5763-6594",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Mumbai offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_mum_08",
+            "name": "Dr. L. H. Hiranandani Hospital",
+            "city": "Mumbai",
+            "region": "Mumbai Central Zone",
+            "latitude": 19.0558,
+            "longitude": 72.8605,
+            "rating": 4.8,
+            "reviews_count": 4150,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Mumbai",
+            "emergency_hotline": "+91-30-7173-8466",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Mumbai offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_mum_09",
+            "name": "Nanavati Max Super Speciality Hospital",
+            "city": "Mumbai",
+            "region": "Mumbai Central Zone",
+            "latitude": 19.0942,
+            "longitude": 72.8494,
+            "rating": 4.6,
+            "reviews_count": 3400,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Mumbai",
+            "emergency_hotline": "+91-68-3157-8278",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Mumbai offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_mum_10",
+            "name": "KEM Hospital Parel",
+            "city": "Mumbai",
+            "region": "Mumbai Central Zone",
+            "latitude": 19.1095,
+            "longitude": 72.8526,
+            "rating": 4.7,
+            "reviews_count": 6750,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Mumbai",
+            "emergency_hotline": "+91-96-7708-4950",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Mumbai offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_del_01",
+            "name": "AIIMS New Delhi",
+            "city": "Delhi / NCR",
+            "region": "Delhi / NCR Central Zone",
+            "latitude": 28.5803,
+            "longitude": 77.1871,
+            "rating": 4.9,
+            "reviews_count": 5800,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Delhi / NCR",
+            "emergency_hotline": "+91-78-2667-3492",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Delhi / NCR offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_del_02",
+            "name": "Medanta - The Medicity (Gurugram)",
+            "city": "Delhi / NCR",
+            "region": "Delhi / NCR Central Zone",
+            "latitude": 28.629,
+            "longitude": 77.2404,
+            "rating": 4.8,
+            "reviews_count": 4750,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Delhi / NCR",
+            "emergency_hotline": "+91-64-3273-9794",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Delhi / NCR offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_del_03",
+            "name": "Fortis Escorts Heart Institute",
+            "city": "Delhi / NCR",
+            "region": "Delhi / NCR Central Zone",
+            "latitude": 28.617,
+            "longitude": 77.2152,
+            "rating": 4.9,
+            "reviews_count": 4900,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Delhi / NCR",
+            "emergency_hotline": "+91-49-7114-4536",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Delhi / NCR offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_del_04",
+            "name": "Max Super Speciality Hospital Saket",
+            "city": "Delhi / NCR",
+            "region": "Delhi / NCR Central Zone",
+            "latitude": 28.6053,
+            "longitude": 77.2374,
+            "rating": 4.7,
+            "reviews_count": 4150,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Delhi / NCR",
+            "emergency_hotline": "+91-78-5948-5125",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Delhi / NCR offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_del_05",
+            "name": "Apollo Hospitals Indraprastha",
+            "city": "Delhi / NCR",
+            "region": "Delhi / NCR Central Zone",
+            "latitude": 28.6304,
+            "longitude": 77.1836,
+            "rating": 4.8,
+            "reviews_count": 7500,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Delhi / NCR",
+            "emergency_hotline": "+91-58-9007-5166",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Delhi / NCR offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_del_06",
+            "name": "Sir Ganga Ram Hospital",
+            "city": "Delhi / NCR",
+            "region": "Delhi / NCR Central Zone",
+            "latitude": 28.6162,
+            "longitude": 77.2333,
+            "rating": 4.8,
+            "reviews_count": 5050,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Delhi / NCR",
+            "emergency_hotline": "+91-75-5985-5978",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Delhi / NCR offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_del_07",
+            "name": "Manipal Hospital Dwarka",
+            "city": "Delhi / NCR",
+            "region": "Delhi / NCR Central Zone",
+            "latitude": 28.5891,
+            "longitude": 77.1769,
+            "rating": 4.7,
+            "reviews_count": 4000,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Delhi / NCR",
+            "emergency_hotline": "+91-33-2523-4052",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Delhi / NCR offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_del_08",
+            "name": "Artemis Hospital Gurugram",
+            "city": "Delhi / NCR",
+            "region": "Delhi / NCR Central Zone",
+            "latitude": 28.643,
+            "longitude": 77.2035,
+            "rating": 4.8,
+            "reviews_count": 4150,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Delhi / NCR",
+            "emergency_hotline": "+91-28-5886-2252",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Delhi / NCR offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_del_09",
+            "name": "Fortis Memorial Research Institute (FMRI)",
+            "city": "Delhi / NCR",
+            "region": "Delhi / NCR Central Zone",
+            "latitude": 28.6066,
+            "longitude": 77.2267,
+            "rating": 4.6,
+            "reviews_count": 3400,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Delhi / NCR",
+            "emergency_hotline": "+91-97-6100-1088",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Delhi / NCR offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_del_10",
+            "name": "Safdarjung Hospital",
+            "city": "Delhi / NCR",
+            "region": "Delhi / NCR Central Zone",
+            "latitude": 28.5865,
+            "longitude": 77.1879,
+            "rating": 4.7,
+            "reviews_count": 6750,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Delhi / NCR",
+            "emergency_hotline": "+91-70-4226-9003",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Delhi / NCR offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ben_01",
+            "name": "Narayana Health City (Bommasandra)",
+            "city": "Bengaluru",
+            "region": "Bengaluru Central Zone",
+            "latitude": 12.9674,
+            "longitude": 77.5905,
+            "rating": 4.9,
+            "reviews_count": 5800,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Bengaluru",
+            "emergency_hotline": "+91-46-3119-6487",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Bengaluru offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ben_02",
+            "name": "Manipal Hospital Old Airport Road",
+            "city": "Bengaluru",
+            "region": "Bengaluru Central Zone",
+            "latitude": 12.9419,
+            "longitude": 77.6132,
+            "rating": 4.8,
+            "reviews_count": 4750,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Bengaluru",
+            "emergency_hotline": "+91-92-6980-6866",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Bengaluru offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ben_03",
+            "name": "Fortis Hospital Bannerghatta Road",
+            "city": "Bengaluru",
+            "region": "Bengaluru Central Zone",
+            "latitude": 12.9582,
+            "longitude": 77.6216,
+            "rating": 4.9,
+            "reviews_count": 4900,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Bengaluru",
+            "emergency_hotline": "+91-54-5433-1706",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Bengaluru offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ben_04",
+            "name": "Apollo Hospitals Bannerghatta",
+            "city": "Bengaluru",
+            "region": "Bengaluru Central Zone",
+            "latitude": 12.9998,
+            "longitude": 77.603,
+            "rating": 4.7,
+            "reviews_count": 4150,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Bengaluru",
+            "emergency_hotline": "+91-21-3220-8731",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Bengaluru offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ben_05",
+            "name": "Aster CMI Hospital Hebbal",
+            "city": "Bengaluru",
+            "region": "Bengaluru Central Zone",
+            "latitude": 12.9468,
+            "longitude": 77.6218,
+            "rating": 4.8,
+            "reviews_count": 7500,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Bengaluru",
+            "emergency_hotline": "+91-51-4998-4702",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Bengaluru offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ben_06",
+            "name": "St. John's Medical College Hospital",
+            "city": "Bengaluru",
+            "region": "Bengaluru Central Zone",
+            "latitude": 12.9856,
+            "longitude": 77.5742,
+            "rating": 4.8,
+            "reviews_count": 5050,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Bengaluru",
+            "emergency_hotline": "+91-95-3912-2158",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Bengaluru offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ben_07",
+            "name": "BGS Gleneagles Global Hospital",
+            "city": "Bengaluru",
+            "region": "Bengaluru Central Zone",
+            "latitude": 12.9942,
+            "longitude": 77.5771,
+            "rating": 4.7,
+            "reviews_count": 4000,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Bengaluru",
+            "emergency_hotline": "+91-41-4011-1928",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Bengaluru offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ben_08",
+            "name": "Sakra World Hospital",
+            "city": "Bengaluru",
+            "region": "Bengaluru Central Zone",
+            "latitude": 12.9779,
+            "longitude": 77.5954,
+            "rating": 4.8,
+            "reviews_count": 4150,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Bengaluru",
+            "emergency_hotline": "+91-27-6321-7116",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Bengaluru offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ben_09",
+            "name": "BMS Hospital",
+            "city": "Bengaluru",
+            "region": "Bengaluru Central Zone",
+            "latitude": 12.9431,
+            "longitude": 77.5721,
+            "rating": 4.6,
+            "reviews_count": 3400,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Bengaluru",
+            "emergency_hotline": "+91-30-9573-3687",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Bengaluru offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ben_10",
+            "name": "Victoria Hospital Bengaluru",
+            "city": "Bengaluru",
+            "region": "Bengaluru Central Zone",
+            "latitude": 13.0039,
+            "longitude": 77.5628,
+            "rating": 4.7,
+            "reviews_count": 6750,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Bengaluru",
+            "emergency_hotline": "+91-52-4468-2849",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Bengaluru offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_hyd_01",
+            "name": "AIG Hospitals (Gachibowli)",
+            "city": "Hyderabad",
+            "region": "Hyderabad Central Zone",
+            "latitude": 17.3919,
+            "longitude": 78.5147,
+            "rating": 4.9,
+            "reviews_count": 5800,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Hyderabad",
+            "emergency_hotline": "+91-54-6701-4894",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Hyderabad offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_hyd_02",
+            "name": "Apollo Hospitals (Jubilee Hills)",
+            "city": "Hyderabad",
+            "region": "Hyderabad Central Zone",
+            "latitude": 17.3685,
+            "longitude": 78.4867,
+            "rating": 4.8,
+            "reviews_count": 4750,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Hyderabad",
+            "emergency_hotline": "+91-52-6160-9934",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Hyderabad offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_hyd_03",
+            "name": "Yashoda Hospitals (Secunderabad)",
+            "city": "Hyderabad",
+            "region": "Hyderabad Central Zone",
+            "latitude": 17.3774,
+            "longitude": 78.4539,
+            "rating": 4.9,
+            "reviews_count": 4900,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Hyderabad",
+            "emergency_hotline": "+91-64-3908-9089",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Hyderabad offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_hyd_04",
+            "name": "KIMS Hospitals (Secunderabad)",
+            "city": "Hyderabad",
+            "region": "Hyderabad Central Zone",
+            "latitude": 17.379,
+            "longitude": 78.4668,
+            "rating": 4.7,
+            "reviews_count": 4150,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Hyderabad",
+            "emergency_hotline": "+91-60-5539-8164",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Hyderabad offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_hyd_05",
+            "name": "CARE Hospitals (Banjara Hills)",
+            "city": "Hyderabad",
+            "region": "Hyderabad Central Zone",
+            "latitude": 17.3719,
+            "longitude": 78.5067,
+            "rating": 4.8,
+            "reviews_count": 7500,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Hyderabad",
+            "emergency_hotline": "+91-84-9013-7034",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Hyderabad offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_hyd_06",
+            "name": "Continental Hospitals (Financial District)",
+            "city": "Hyderabad",
+            "region": "Hyderabad Central Zone",
+            "latitude": 17.3663,
+            "longitude": 78.5104,
+            "rating": 4.8,
+            "reviews_count": 5050,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Hyderabad",
+            "emergency_hotline": "+91-18-6458-9898",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Hyderabad offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_hyd_07",
+            "name": "Star Hospitals (Banjara Hills)",
+            "city": "Hyderabad",
+            "region": "Hyderabad Central Zone",
+            "latitude": 17.4198,
+            "longitude": 78.4585,
+            "rating": 4.7,
+            "reviews_count": 4000,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Hyderabad",
+            "emergency_hotline": "+91-46-5436-4521",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Hyderabad offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_hyd_08",
+            "name": "Sunshine Hospitals",
+            "city": "Hyderabad",
+            "region": "Hyderabad Central Zone",
+            "latitude": 17.3689,
+            "longitude": 78.4558,
+            "rating": 4.8,
+            "reviews_count": 4150,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Hyderabad",
+            "emergency_hotline": "+91-70-8311-2910",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Hyderabad offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_hyd_09",
+            "name": "Medicover Hospitals Hi-Tech City",
+            "city": "Hyderabad",
+            "region": "Hyderabad Central Zone",
+            "latitude": 17.3557,
+            "longitude": 78.5008,
+            "rating": 4.6,
+            "reviews_count": 3400,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Hyderabad",
+            "emergency_hotline": "+91-58-8627-1351",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Hyderabad offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_hyd_10",
+            "name": "Osmania General Hospital",
+            "city": "Hyderabad",
+            "region": "Hyderabad Central Zone",
+            "latitude": 17.411,
+            "longitude": 78.5186,
+            "rating": 4.7,
+            "reviews_count": 6750,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Hyderabad",
+            "emergency_hotline": "+91-77-2148-2594",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Hyderabad offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_kol_01",
+            "name": "Apollo Multispecialty Hospital Kolkata",
+            "city": "Kolkata",
+            "region": "Kolkata Central Zone",
+            "latitude": 22.6015,
+            "longitude": 88.3935,
+            "rating": 4.9,
+            "reviews_count": 5800,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Kolkata",
+            "emergency_hotline": "+91-11-3691-4144",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Kolkata offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_kol_02",
+            "name": "Fortis Hospital Anandapur",
+            "city": "Kolkata",
+            "region": "Kolkata Central Zone",
+            "latitude": 22.5931,
+            "longitude": 88.3592,
+            "rating": 4.8,
+            "reviews_count": 4750,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Kolkata",
+            "emergency_hotline": "+91-80-3643-3991",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Kolkata offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_kol_03",
+            "name": "AMRI Hospital Dhakuria",
+            "city": "Kolkata",
+            "region": "Kolkata Central Zone",
+            "latitude": 22.5746,
+            "longitude": 88.352,
+            "rating": 4.9,
+            "reviews_count": 4900,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Kolkata",
+            "emergency_hotline": "+91-66-6428-8283",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Kolkata offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_kol_04",
+            "name": "Medica Superspecialty Hospital",
+            "city": "Kolkata",
+            "region": "Kolkata Central Zone",
+            "latitude": 22.5534,
+            "longitude": 88.3538,
+            "rating": 4.7,
+            "reviews_count": 4150,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Kolkata",
+            "emergency_hotline": "+91-59-6465-4190",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Kolkata offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_kol_05",
+            "name": "Tata Medical Center Rajarhat",
+            "city": "Kolkata",
+            "region": "Kolkata Central Zone",
+            "latitude": 22.6001,
+            "longitude": 88.3337,
+            "rating": 4.8,
+            "reviews_count": 7500,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Kolkata",
+            "emergency_hotline": "+91-66-3434-9541",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Kolkata offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_kol_06",
+            "name": "Peerless Hospital",
+            "city": "Kolkata",
+            "region": "Kolkata Central Zone",
+            "latitude": 22.5598,
+            "longitude": 88.3746,
+            "rating": 4.8,
+            "reviews_count": 5050,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Kolkata",
+            "emergency_hotline": "+91-61-2242-3149",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Kolkata offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_kol_07",
+            "name": "Ruby General Hospital",
+            "city": "Kolkata",
+            "region": "Kolkata Central Zone",
+            "latitude": 22.5885,
+            "longitude": 88.3533,
+            "rating": 4.7,
+            "reviews_count": 4000,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Kolkata",
+            "emergency_hotline": "+91-60-9834-4559",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Kolkata offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_kol_08",
+            "name": "RN Tagore International Institute of Cardiac Sciences",
+            "city": "Kolkata",
+            "region": "Kolkata Central Zone",
+            "latitude": 22.5843,
+            "longitude": 88.3495,
+            "rating": 4.8,
+            "reviews_count": 4150,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Kolkata",
+            "emergency_hotline": "+91-29-7075-5641",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Kolkata offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_kol_09",
+            "name": "IPGMER & SSKM Hospital",
+            "city": "Kolkata",
+            "region": "Kolkata Central Zone",
+            "latitude": 22.5796,
+            "longitude": 88.3551,
+            "rating": 4.6,
+            "reviews_count": 3400,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Kolkata",
+            "emergency_hotline": "+91-66-6252-5424",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Kolkata offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_kol_10",
+            "name": "Woodlands Multispecialty Hospital",
+            "city": "Kolkata",
+            "region": "Kolkata Central Zone",
+            "latitude": 22.5629,
+            "longitude": 88.3674,
+            "rating": 4.7,
+            "reviews_count": 6750,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Kolkata",
+            "emergency_hotline": "+91-97-2722-2752",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Kolkata offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_coi_01",
+            "name": "Ganga Hospital (Swarnambika Layout)",
+            "city": "Coimbatore",
+            "region": "Coimbatore Central Zone",
+            "latitude": 11.0474,
+            "longitude": 76.9529,
+            "rating": 4.9,
+            "reviews_count": 5800,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Coimbatore",
+            "emergency_hotline": "+91-39-8615-3128",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Coimbatore offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_coi_02",
+            "name": "Kovai Medical Center and Hospital (KMCH)",
+            "city": "Coimbatore",
+            "region": "Coimbatore Central Zone",
+            "latitude": 11.0234,
+            "longitude": 76.9224,
+            "rating": 4.8,
+            "reviews_count": 4750,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Coimbatore",
+            "emergency_hotline": "+91-50-5093-7927",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Coimbatore offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_coi_03",
+            "name": "PSG Hospitals",
+            "city": "Coimbatore",
+            "region": "Coimbatore Central Zone",
+            "latitude": 11.0296,
+            "longitude": 76.9857,
+            "rating": 4.9,
+            "reviews_count": 4900,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Coimbatore",
+            "emergency_hotline": "+91-40-6233-3169",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Coimbatore offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_coi_04",
+            "name": "Sri Ramakrishna Hospital",
+            "city": "Coimbatore",
+            "region": "Coimbatore Central Zone",
+            "latitude": 11.0516,
+            "longitude": 76.9574,
+            "rating": 4.7,
+            "reviews_count": 4150,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Coimbatore",
+            "emergency_hotline": "+91-49-4517-7043",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Coimbatore offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_coi_05",
+            "name": "GEM Hospital & Research Centre",
+            "city": "Coimbatore",
+            "region": "Coimbatore Central Zone",
+            "latitude": 11.016,
+            "longitude": 76.9225,
+            "rating": 4.8,
+            "reviews_count": 7500,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Coimbatore",
+            "emergency_hotline": "+91-54-6867-3153",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Coimbatore offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_coi_06",
+            "name": "Royal Care Super Speciality Hospital",
+            "city": "Coimbatore",
+            "region": "Coimbatore Central Zone",
+            "latitude": 11.0374,
+            "longitude": 76.9349,
+            "rating": 4.8,
+            "reviews_count": 5050,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Coimbatore",
+            "emergency_hotline": "+91-44-6637-2019",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Coimbatore offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_coi_07",
+            "name": "G. Kuppuswamy Naidu Memorial Hospital (GKNM)",
+            "city": "Coimbatore",
+            "region": "Coimbatore Central Zone",
+            "latitude": 11.018,
+            "longitude": 76.95,
+            "rating": 4.7,
+            "reviews_count": 4000,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Coimbatore",
+            "emergency_hotline": "+91-82-2059-9785",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Coimbatore offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_coi_08",
+            "name": "Lotus Hospital",
+            "city": "Coimbatore",
+            "region": "Coimbatore Central Zone",
+            "latitude": 11.0083,
+            "longitude": 76.9509,
+            "rating": 4.8,
+            "reviews_count": 4150,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Coimbatore",
+            "emergency_hotline": "+91-81-5688-4424",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Coimbatore offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_coi_09",
+            "name": "Coimbatore Medical College Hospital (CMCH)",
+            "city": "Coimbatore",
+            "region": "Coimbatore Central Zone",
+            "latitude": 11.0075,
+            "longitude": 76.9821,
+            "rating": 4.6,
+            "reviews_count": 3400,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Coimbatore",
+            "emergency_hotline": "+91-19-3576-7599",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Coimbatore offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_coi_10",
+            "name": "KG Hospital",
+            "city": "Coimbatore",
+            "region": "Coimbatore Central Zone",
+            "latitude": 11.0428,
+            "longitude": 76.938,
+            "rating": 4.7,
+            "reviews_count": 6750,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Coimbatore",
+            "emergency_hotline": "+91-29-7177-5367",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Coimbatore offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_pun_01",
+            "name": "Sancheti Hospital (Shivajinagar)",
+            "city": "Pune",
+            "region": "Pune Central Zone",
+            "latitude": 18.5387,
+            "longitude": 73.8356,
+            "rating": 4.9,
+            "reviews_count": 5800,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Pune",
+            "emergency_hotline": "+91-86-6986-7973",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Pune offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_pun_02",
+            "name": "Ruby Hall Clinic (Sasoon Road)",
+            "city": "Pune",
+            "region": "Pune Central Zone",
+            "latitude": 18.5475,
+            "longitude": 73.8475,
+            "rating": 4.8,
+            "reviews_count": 4750,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Pune",
+            "emergency_hotline": "+91-68-2314-8077",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Pune offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_pun_03",
+            "name": "Sahyadri Super Speciality Hospital",
+            "city": "Pune",
+            "region": "Pune Central Zone",
+            "latitude": 18.5529,
+            "longitude": 73.8736,
+            "rating": 4.9,
+            "reviews_count": 4900,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Pune",
+            "emergency_hotline": "+91-21-5438-1228",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Pune offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_pun_04",
+            "name": "Deenanath Mangeshkar Hospital",
+            "city": "Pune",
+            "region": "Pune Central Zone",
+            "latitude": 18.534,
+            "longitude": 73.8671,
+            "rating": 4.7,
+            "reviews_count": 4150,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Pune",
+            "emergency_hotline": "+91-96-5654-8124",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Pune offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_pun_05",
+            "name": "Jehangir Hospital",
+            "city": "Pune",
+            "region": "Pune Central Zone",
+            "latitude": 18.4962,
+            "longitude": 73.84,
+            "rating": 4.8,
+            "reviews_count": 7500,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Pune",
+            "emergency_hotline": "+91-82-5978-2885",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Pune offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_pun_06",
+            "name": "Jupiter Hospital Baner",
+            "city": "Pune",
+            "region": "Pune Central Zone",
+            "latitude": 18.537,
+            "longitude": 73.8742,
+            "rating": 4.8,
+            "reviews_count": 5050,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Pune",
+            "emergency_hotline": "+91-15-3965-9995",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Pune offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_pun_07",
+            "name": "Manipal Hospital Baner",
+            "city": "Pune",
+            "region": "Pune Central Zone",
+            "latitude": 18.4943,
+            "longitude": 73.8483,
+            "rating": 4.7,
+            "reviews_count": 4000,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Pune",
+            "emergency_hotline": "+91-74-9595-1133",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Pune offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_pun_08",
+            "name": "Noble Hospital Hadapsar",
+            "city": "Pune",
+            "region": "Pune Central Zone",
+            "latitude": 18.507,
+            "longitude": 73.8505,
+            "rating": 4.8,
+            "reviews_count": 4150,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Pune",
+            "emergency_hotline": "+91-54-8096-5567",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Pune offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_pun_09",
+            "name": "KEM Hospital Pune",
+            "city": "Pune",
+            "region": "Pune Central Zone",
+            "latitude": 18.526,
+            "longitude": 73.8763,
+            "rating": 4.6,
+            "reviews_count": 3400,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Pune",
+            "emergency_hotline": "+91-78-2818-2252",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Pune offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_pun_10",
+            "name": "Sassoon General Hospital",
+            "city": "Pune",
+            "region": "Pune Central Zone",
+            "latitude": 18.502,
+            "longitude": 73.8665,
+            "rating": 4.7,
+            "reviews_count": 6750,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Pune",
+            "emergency_hotline": "+91-92-4584-3981",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Pune offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ahm_01",
+            "name": "Zydus Hospital Thaltej",
+            "city": "Ahmedabad",
+            "region": "Ahmedabad Central Zone",
+            "latitude": 23.024,
+            "longitude": 72.5786,
+            "rating": 4.9,
+            "reviews_count": 5800,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Ahmedabad",
+            "emergency_hotline": "+91-98-4636-3081",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Ahmedabad offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ahm_02",
+            "name": "Marengo CIMS Hospital",
+            "city": "Ahmedabad",
+            "region": "Ahmedabad Central Zone",
+            "latitude": 23.0442,
+            "longitude": 72.5791,
+            "rating": 4.8,
+            "reviews_count": 4750,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Ahmedabad",
+            "emergency_hotline": "+91-19-9247-6514",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Ahmedabad offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ahm_03",
+            "name": "Apollo Hospitals Bhat",
+            "city": "Ahmedabad",
+            "region": "Ahmedabad Central Zone",
+            "latitude": 23.0176,
+            "longitude": 72.5528,
+            "rating": 4.9,
+            "reviews_count": 4900,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Ahmedabad",
+            "emergency_hotline": "+91-37-8952-4923",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Ahmedabad offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ahm_04",
+            "name": "Sterling Hospitals",
+            "city": "Ahmedabad",
+            "region": "Ahmedabad Central Zone",
+            "latitude": 23.0066,
+            "longitude": 72.5657,
+            "rating": 4.7,
+            "reviews_count": 4150,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Ahmedabad",
+            "emergency_hotline": "+91-75-5639-5730",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Ahmedabad offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ahm_05",
+            "name": "Shalby Hospital S.G. Highway",
+            "city": "Ahmedabad",
+            "region": "Ahmedabad Central Zone",
+            "latitude": 23.0163,
+            "longitude": 72.5517,
+            "rating": 4.8,
+            "reviews_count": 7500,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Ahmedabad",
+            "emergency_hotline": "+91-75-8631-9402",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Ahmedabad offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ahm_06",
+            "name": "Apex Heart Institute",
+            "city": "Ahmedabad",
+            "region": "Ahmedabad Central Zone",
+            "latitude": 23.0177,
+            "longitude": 72.571,
+            "rating": 4.8,
+            "reviews_count": 5050,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Ahmedabad",
+            "emergency_hotline": "+91-93-2500-3913",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Ahmedabad offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ahm_07",
+            "name": "KD Hospital",
+            "city": "Ahmedabad",
+            "region": "Ahmedabad Central Zone",
+            "latitude": 23.0294,
+            "longitude": 72.6047,
+            "rating": 4.7,
+            "reviews_count": 4000,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Ahmedabad",
+            "emergency_hotline": "+91-48-6307-7597",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Ahmedabad offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ahm_08",
+            "name": "HCG Cancer Centre",
+            "city": "Ahmedabad",
+            "region": "Ahmedabad Central Zone",
+            "latitude": 23.0316,
+            "longitude": 72.5828,
+            "rating": 4.8,
+            "reviews_count": 4150,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Ahmedabad",
+            "emergency_hotline": "+91-99-3305-1854",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Ahmedabad offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ahm_09",
+            "name": "Civil Hospital Ahmedabad",
+            "city": "Ahmedabad",
+            "region": "Ahmedabad Central Zone",
+            "latitude": 23.053,
+            "longitude": 72.5482,
+            "rating": 4.6,
+            "reviews_count": 3400,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Ahmedabad",
+            "emergency_hotline": "+91-30-5943-5197",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Ahmedabad offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ahm_10",
+            "name": "UN Mehta Institute of Cardiology",
+            "city": "Ahmedabad",
+            "region": "Ahmedabad Central Zone",
+            "latitude": 23.0192,
+            "longitude": 72.5895,
+            "rating": 4.7,
+            "reviews_count": 6750,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Ahmedabad",
+            "emergency_hotline": "+91-73-3035-5344",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Ahmedabad offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_jai_01",
+            "name": "SMS Hospital Jaipur",
+            "city": "Jaipur",
+            "region": "Jaipur Central Zone",
+            "latitude": 26.9464,
+            "longitude": 75.7848,
+            "rating": 4.9,
+            "reviews_count": 5800,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Jaipur",
+            "emergency_hotline": "+91-16-2099-1652",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Jaipur offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_jai_02",
+            "name": "Eternal Hospital (EHCC)",
+            "city": "Jaipur",
+            "region": "Jaipur Central Zone",
+            "latitude": 26.926,
+            "longitude": 75.8214,
+            "rating": 4.8,
+            "reviews_count": 4750,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Jaipur",
+            "emergency_hotline": "+91-58-3914-6695",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Jaipur offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_jai_03",
+            "name": "Fortis Escorts Hospital Jaipur",
+            "city": "Jaipur",
+            "region": "Jaipur Central Zone",
+            "latitude": 26.9279,
+            "longitude": 75.7992,
+            "rating": 4.9,
+            "reviews_count": 4900,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Jaipur",
+            "emergency_hotline": "+91-48-3142-4986",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Jaipur offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_jai_04",
+            "name": "Narayana Multispecialty Hospital",
+            "city": "Jaipur",
+            "region": "Jaipur Central Zone",
+            "latitude": 26.8835,
+            "longitude": 75.7525,
+            "rating": 4.7,
+            "reviews_count": 4150,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Jaipur",
+            "emergency_hotline": "+91-72-5668-7550",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Jaipur offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_jai_05",
+            "name": "Manipal Hospital Jaipur",
+            "city": "Jaipur",
+            "region": "Jaipur Central Zone",
+            "latitude": 26.928,
+            "longitude": 75.7725,
+            "rating": 4.8,
+            "reviews_count": 7500,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Jaipur",
+            "emergency_hotline": "+91-36-2288-2582",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Jaipur offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_jai_06",
+            "name": "Apex Hospitals",
+            "city": "Jaipur",
+            "region": "Jaipur Central Zone",
+            "latitude": 26.9334,
+            "longitude": 75.8213,
+            "rating": 4.8,
+            "reviews_count": 5050,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Jaipur",
+            "emergency_hotline": "+91-63-7345-1551",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Jaipur offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_jai_07",
+            "name": "Shalby Hospital Jaipur",
+            "city": "Jaipur",
+            "region": "Jaipur Central Zone",
+            "latitude": 26.9314,
+            "longitude": 75.8199,
+            "rating": 4.7,
+            "reviews_count": 4000,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Jaipur",
+            "emergency_hotline": "+91-66-2832-5626",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Jaipur offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_jai_08",
+            "name": "CK Birla Hospital RBH",
+            "city": "Jaipur",
+            "region": "Jaipur Central Zone",
+            "latitude": 26.8981,
+            "longitude": 75.759,
+            "rating": 4.8,
+            "reviews_count": 4150,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Jaipur",
+            "emergency_hotline": "+91-25-6255-5411",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Jaipur offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_jai_09",
+            "name": "Mahatma Gandhi Hospital",
+            "city": "Jaipur",
+            "region": "Jaipur Central Zone",
+            "latitude": 26.9243,
+            "longitude": 75.7598,
+            "rating": 4.6,
+            "reviews_count": 3400,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Jaipur",
+            "emergency_hotline": "+91-49-5485-2754",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Jaipur offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_jai_10",
+            "name": "SDMH Hospital",
+            "city": "Jaipur",
+            "region": "Jaipur Central Zone",
+            "latitude": 26.8828,
+            "longitude": 75.7686,
+            "rating": 4.7,
+            "reviews_count": 6750,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Jaipur",
+            "emergency_hotline": "+91-50-6295-2789",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Jaipur offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_luc_01",
+            "name": "Sanjay Gandhi Postgraduate Institute (SGPGI)",
+            "city": "Lucknow",
+            "region": "Lucknow Central Zone",
+            "latitude": 26.8634,
+            "longitude": 80.9154,
+            "rating": 4.9,
+            "reviews_count": 5800,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Lucknow",
+            "emergency_hotline": "+91-14-5397-6604",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Lucknow offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_luc_02",
+            "name": "Medanta Hospital Lucknow",
+            "city": "Lucknow",
+            "region": "Lucknow Central Zone",
+            "latitude": 26.8784,
+            "longitude": 80.9158,
+            "rating": 4.8,
+            "reviews_count": 4750,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Lucknow",
+            "emergency_hotline": "+91-96-9874-9494",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Lucknow offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_luc_03",
+            "name": "King George's Medical University (KGMU)",
+            "city": "Lucknow",
+            "region": "Lucknow Central Zone",
+            "latitude": 26.8628,
+            "longitude": 80.9719,
+            "rating": 4.9,
+            "reviews_count": 4900,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Lucknow",
+            "emergency_hotline": "+91-28-5520-3339",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Lucknow offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_luc_04",
+            "name": "Apollomedics Super Speciality Hospital",
+            "city": "Lucknow",
+            "region": "Lucknow Central Zone",
+            "latitude": 26.8369,
+            "longitude": 80.9527,
+            "rating": 4.7,
+            "reviews_count": 4150,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Lucknow",
+            "emergency_hotline": "+91-24-6528-3796",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Lucknow offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_luc_05",
+            "name": "Sahara Hospital",
+            "city": "Lucknow",
+            "region": "Lucknow Central Zone",
+            "latitude": 26.8227,
+            "longitude": 80.9249,
+            "rating": 4.8,
+            "reviews_count": 7500,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Lucknow",
+            "emergency_hotline": "+91-96-7821-7736",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Lucknow offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_luc_06",
+            "name": "Max Super Speciality Hospital Lucknow",
+            "city": "Lucknow",
+            "region": "Lucknow Central Zone",
+            "latitude": 26.85,
+            "longitude": 80.9422,
+            "rating": 4.8,
+            "reviews_count": 5050,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Lucknow",
+            "emergency_hotline": "+91-23-4391-6146",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Lucknow offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_luc_07",
+            "name": "Charak Hospital",
+            "city": "Lucknow",
+            "region": "Lucknow Central Zone",
+            "latitude": 26.8678,
+            "longitude": 80.9622,
+            "rating": 4.7,
+            "reviews_count": 4000,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Lucknow",
+            "emergency_hotline": "+91-93-9745-1713",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Lucknow offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_luc_08",
+            "name": "Ram Manohar Lohia Institute (RMLIMS)",
+            "city": "Lucknow",
+            "region": "Lucknow Central Zone",
+            "latitude": 26.8797,
+            "longitude": 80.962,
+            "rating": 4.8,
+            "reviews_count": 4150,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Lucknow",
+            "emergency_hotline": "+91-21-2950-3900",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Lucknow offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_luc_09",
+            "name": "Balrampur Hospital",
+            "city": "Lucknow",
+            "region": "Lucknow Central Zone",
+            "latitude": 26.8801,
+            "longitude": 80.9604,
+            "rating": 4.6,
+            "reviews_count": 3400,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Lucknow",
+            "emergency_hotline": "+91-56-2612-3617",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Lucknow offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_luc_10",
+            "name": "Kasturba Hospital",
+            "city": "Lucknow",
+            "region": "Lucknow Central Zone",
+            "latitude": 26.8716,
+            "longitude": 80.9683,
+            "rating": 4.7,
+            "reviews_count": 6750,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Lucknow",
+            "emergency_hotline": "+91-30-3376-1076",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Lucknow offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_koc_01",
+            "name": "Amrita Institute of Medical Sciences (AIMS)",
+            "city": "Kochi",
+            "region": "Kochi Central Zone",
+            "latitude": 9.9277,
+            "longitude": 76.2412,
+            "rating": 4.9,
+            "reviews_count": 5800,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Kochi",
+            "emergency_hotline": "+91-70-7694-5248",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Kochi offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_koc_02",
+            "name": "Aster Medcity Cheranalloor",
+            "city": "Kochi",
+            "region": "Kochi Central Zone",
+            "latitude": 9.9141,
+            "longitude": 76.2332,
+            "rating": 4.8,
+            "reviews_count": 4750,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Kochi",
+            "emergency_hotline": "+91-18-9441-8919",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Kochi offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_koc_03",
+            "name": "Lisie Hospital Kaloor",
+            "city": "Kochi",
+            "region": "Kochi Central Zone",
+            "latitude": 9.9348,
+            "longitude": 76.2702,
+            "rating": 4.9,
+            "reviews_count": 4900,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Kochi",
+            "emergency_hotline": "+91-54-9302-9302",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Kochi offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_koc_04",
+            "name": "VPS Lakeshore Hospital",
+            "city": "Kochi",
+            "region": "Kochi Central Zone",
+            "latitude": 9.947,
+            "longitude": 76.2632,
+            "rating": 4.7,
+            "reviews_count": 4150,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Kochi",
+            "emergency_hotline": "+91-64-3527-4925",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Kochi offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_koc_05",
+            "name": "Rajagiri Hospital Aluva",
+            "city": "Kochi",
+            "region": "Kochi Central Zone",
+            "latitude": 9.9507,
+            "longitude": 76.2797,
+            "rating": 4.8,
+            "reviews_count": 7500,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Kochi",
+            "emergency_hotline": "+91-99-3782-4495",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Kochi offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_koc_06",
+            "name": "Medical Trust Hospital",
+            "city": "Kochi",
+            "region": "Kochi Central Zone",
+            "latitude": 9.9468,
+            "longitude": 76.2996,
+            "rating": 4.8,
+            "reviews_count": 5050,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Kochi",
+            "emergency_hotline": "+91-25-9188-3160",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Kochi offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_koc_07",
+            "name": "MOSC Medical College Hospital",
+            "city": "Kochi",
+            "region": "Kochi Central Zone",
+            "latitude": 9.9607,
+            "longitude": 76.2498,
+            "rating": 4.7,
+            "reviews_count": 4000,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Kochi",
+            "emergency_hotline": "+91-67-5933-8059",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Kochi offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_koc_08",
+            "name": "Renai Medicity",
+            "city": "Kochi",
+            "region": "Kochi Central Zone",
+            "latitude": 9.9598,
+            "longitude": 76.2844,
+            "rating": 4.8,
+            "reviews_count": 4150,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Kochi",
+            "emergency_hotline": "+91-19-4575-6468",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Kochi offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_koc_09",
+            "name": "Ernakulam Medical Centre",
+            "city": "Kochi",
+            "region": "Kochi Central Zone",
+            "latitude": 9.9018,
+            "longitude": 76.2452,
+            "rating": 4.6,
+            "reviews_count": 3400,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Kochi",
+            "emergency_hotline": "+91-47-2499-9892",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Kochi offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_koc_10",
+            "name": "Government Medical College Ernakulam",
+            "city": "Kochi",
+            "region": "Kochi Central Zone",
+            "latitude": 9.949,
+            "longitude": 76.2373,
+            "rating": 4.7,
+            "reviews_count": 6750,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Kochi",
+            "emergency_hotline": "+91-41-9490-1908",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Kochi offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_cha_01",
+            "name": "PGIMER Chandigarh",
+            "city": "Chandigarh",
+            "region": "Chandigarh Central Zone",
+            "latitude": 30.7513,
+            "longitude": 76.7582,
+            "rating": 4.9,
+            "reviews_count": 5800,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Chandigarh",
+            "emergency_hotline": "+91-50-5573-9429",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Chandigarh offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_cha_02",
+            "name": "Fortis Hospital Mohali",
+            "city": "Chandigarh",
+            "region": "Chandigarh Central Zone",
+            "latitude": 30.7063,
+            "longitude": 76.7672,
+            "rating": 4.8,
+            "reviews_count": 4750,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Chandigarh",
+            "emergency_hotline": "+91-52-8828-2544",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Chandigarh offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_cha_03",
+            "name": "Max Super Speciality Hospital Mohali",
+            "city": "Chandigarh",
+            "region": "Chandigarh Central Zone",
+            "latitude": 30.7406,
+            "longitude": 76.8013,
+            "rating": 4.9,
+            "reviews_count": 4900,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Chandigarh",
+            "emergency_hotline": "+91-82-3447-2532",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Chandigarh offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_cha_04",
+            "name": "Ivy Hospital Sector 71",
+            "city": "Chandigarh",
+            "region": "Chandigarh Central Zone",
+            "latitude": 30.6992,
+            "longitude": 76.8113,
+            "rating": 4.7,
+            "reviews_count": 4150,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Chandigarh",
+            "emergency_hotline": "+91-72-6680-4570",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Chandigarh offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_cha_05",
+            "name": "Command Hospital Chandimandir",
+            "city": "Chandigarh",
+            "region": "Chandigarh Central Zone",
+            "latitude": 30.7288,
+            "longitude": 76.7806,
+            "rating": 4.8,
+            "reviews_count": 7500,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Chandigarh",
+            "emergency_hotline": "+91-49-7433-3301",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Chandigarh offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_cha_06",
+            "name": "Indus International Hospital",
+            "city": "Chandigarh",
+            "region": "Chandigarh Central Zone",
+            "latitude": 30.7058,
+            "longitude": 76.787,
+            "rating": 4.8,
+            "reviews_count": 5050,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Chandigarh",
+            "emergency_hotline": "+91-91-8115-5356",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Chandigarh offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_cha_07",
+            "name": "Landmark Hospital Sector 33",
+            "city": "Chandigarh",
+            "region": "Chandigarh Central Zone",
+            "latitude": 30.7063,
+            "longitude": 76.7591,
+            "rating": 4.7,
+            "reviews_count": 4000,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Chandigarh",
+            "emergency_hotline": "+91-50-9103-2709",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Chandigarh offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_cha_08",
+            "name": "Alchemist Hospital Panchkula",
+            "city": "Chandigarh",
+            "region": "Chandigarh Central Zone",
+            "latitude": 30.7229,
+            "longitude": 76.752,
+            "rating": 4.8,
+            "reviews_count": 4150,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Chandigarh",
+            "emergency_hotline": "+91-65-6144-2875",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Chandigarh offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_cha_09",
+            "name": "Healing Hospital Sector 34",
+            "city": "Chandigarh",
+            "region": "Chandigarh Central Zone",
+            "latitude": 30.7659,
+            "longitude": 76.7606,
+            "rating": 4.6,
+            "reviews_count": 3400,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Chandigarh",
+            "emergency_hotline": "+91-28-2885-8724",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Chandigarh offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_cha_10",
+            "name": "Government Medical College & Hospital (GMCH 32)",
+            "city": "Chandigarh",
+            "region": "Chandigarh Central Zone",
+            "latitude": 30.7329,
+            "longitude": 76.7624,
+            "rating": 4.7,
+            "reviews_count": 6750,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Chandigarh",
+            "emergency_hotline": "+91-83-3167-4577",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Chandigarh offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_vis_01",
+            "name": "Apollo Hospitals Vizag",
+            "city": "Visakhapatnam",
+            "region": "Visakhapatnam Central Zone",
+            "latitude": 17.7193,
+            "longitude": 83.2039,
+            "rating": 4.9,
+            "reviews_count": 5800,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Visakhapatnam",
+            "emergency_hotline": "+91-77-5061-2637",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Visakhapatnam offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_vis_02",
+            "name": "KIMS ICON Hospital",
+            "city": "Visakhapatnam",
+            "region": "Visakhapatnam Central Zone",
+            "latitude": 17.7182,
+            "longitude": 83.2514,
+            "rating": 4.8,
+            "reviews_count": 4750,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Visakhapatnam",
+            "emergency_hotline": "+91-74-7551-6774",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Visakhapatnam offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_vis_03",
+            "name": "SevenHills Hospital",
+            "city": "Visakhapatnam",
+            "region": "Visakhapatnam Central Zone",
+            "latitude": 17.7206,
+            "longitude": 83.2016,
+            "rating": 4.9,
+            "reviews_count": 4900,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Visakhapatnam",
+            "emergency_hotline": "+91-23-9733-4149",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Visakhapatnam offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_vis_04",
+            "name": "Care Hospitals Ramnagar",
+            "city": "Visakhapatnam",
+            "region": "Visakhapatnam Central Zone",
+            "latitude": 17.6555,
+            "longitude": 83.1953,
+            "rating": 4.7,
+            "reviews_count": 4150,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Visakhapatnam",
+            "emergency_hotline": "+91-26-7380-5049",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Visakhapatnam offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_vis_05",
+            "name": "Omni RK Hospital",
+            "city": "Visakhapatnam",
+            "region": "Visakhapatnam Central Zone",
+            "latitude": 17.6913,
+            "longitude": 83.2033,
+            "rating": 4.8,
+            "reviews_count": 7500,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Visakhapatnam",
+            "emergency_hotline": "+91-67-3612-9882",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Visakhapatnam offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_vis_06",
+            "name": "Medicover Hospitals Vizag",
+            "city": "Visakhapatnam",
+            "region": "Visakhapatnam Central Zone",
+            "latitude": 17.7083,
+            "longitude": 83.2315,
+            "rating": 4.8,
+            "reviews_count": 5050,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Visakhapatnam",
+            "emergency_hotline": "+91-79-3541-4413",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Visakhapatnam offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_vis_07",
+            "name": "Pinnacle Hospital",
+            "city": "Visakhapatnam",
+            "region": "Visakhapatnam Central Zone",
+            "latitude": 17.6777,
+            "longitude": 83.1968,
+            "rating": 4.7,
+            "reviews_count": 4000,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Visakhapatnam",
+            "emergency_hotline": "+91-80-6243-5308",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Visakhapatnam offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_vis_08",
+            "name": "Visakha Institute of Medical Sciences (VIMS)",
+            "city": "Visakhapatnam",
+            "region": "Visakhapatnam Central Zone",
+            "latitude": 17.7097,
+            "longitude": 83.196,
+            "rating": 4.8,
+            "reviews_count": 4150,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Visakhapatnam",
+            "emergency_hotline": "+91-14-6987-9607",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Visakhapatnam offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_vis_09",
+            "name": "Queen's Medical Center",
+            "city": "Visakhapatnam",
+            "region": "Visakhapatnam Central Zone",
+            "latitude": 17.6642,
+            "longitude": 83.1905,
+            "rating": 4.6,
+            "reviews_count": 3400,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Visakhapatnam",
+            "emergency_hotline": "+91-89-3743-9194",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Visakhapatnam offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_vis_10",
+            "name": "King George Hospital (KGH Vizag)",
+            "city": "Visakhapatnam",
+            "region": "Visakhapatnam Central Zone",
+            "latitude": 17.7104,
+            "longitude": 83.2308,
+            "rating": 4.7,
+            "reviews_count": 6750,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Visakhapatnam",
+            "emergency_hotline": "+91-69-5759-9041",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Visakhapatnam offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ind_01",
+            "name": "Care CHL Hospital",
+            "city": "Indore",
+            "region": "Indore Central Zone",
+            "latitude": 22.7135,
+            "longitude": 75.8724,
+            "rating": 4.9,
+            "reviews_count": 5800,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Indore",
+            "emergency_hotline": "+91-35-4089-6377",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Indore offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ind_02",
+            "name": "Bombay Hospital Indore",
+            "city": "Indore",
+            "region": "Indore Central Zone",
+            "latitude": 22.6899,
+            "longitude": 75.857,
+            "rating": 4.8,
+            "reviews_count": 4750,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Indore",
+            "emergency_hotline": "+91-73-2540-8690",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Indore offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ind_03",
+            "name": "Medanta Super Speciality Hospital Indore",
+            "city": "Indore",
+            "region": "Indore Central Zone",
+            "latitude": 22.7381,
+            "longitude": 75.8769,
+            "rating": 4.9,
+            "reviews_count": 4900,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Indore",
+            "emergency_hotline": "+91-99-3611-8364",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Indore offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ind_04",
+            "name": "Apollo Hospitals Vijay Nagar",
+            "city": "Indore",
+            "region": "Indore Central Zone",
+            "latitude": 22.7116,
+            "longitude": 75.8734,
+            "rating": 4.7,
+            "reviews_count": 4150,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Indore",
+            "emergency_hotline": "+91-63-8379-3681",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Indore offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ind_05",
+            "name": "Choithram Hospital & Research Centre",
+            "city": "Indore",
+            "region": "Indore Central Zone",
+            "latitude": 22.7097,
+            "longitude": 75.8908,
+            "rating": 4.8,
+            "reviews_count": 7500,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Indore",
+            "emergency_hotline": "+91-86-8944-5029",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Indore offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ind_06",
+            "name": "Vishesh Jupiter Hospital",
+            "city": "Indore",
+            "region": "Indore Central Zone",
+            "latitude": 22.7015,
+            "longitude": 75.8606,
+            "rating": 4.8,
+            "reviews_count": 5050,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Indore",
+            "emergency_hotline": "+91-79-6255-5985",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Indore offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ind_07",
+            "name": "Shalby Hospital Indore",
+            "city": "Indore",
+            "region": "Indore Central Zone",
+            "latitude": 22.6868,
+            "longitude": 75.8572,
+            "rating": 4.7,
+            "reviews_count": 4000,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Indore",
+            "emergency_hotline": "+91-62-2159-5990",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Indore offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ind_08",
+            "name": "Gokuldas Hospital",
+            "city": "Indore",
+            "region": "Indore Central Zone",
+            "latitude": 22.7011,
+            "longitude": 75.8726,
+            "rating": 4.8,
+            "reviews_count": 4150,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Indore",
+            "emergency_hotline": "+91-42-7216-8792",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Indore offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ind_09",
+            "name": "Maharaja Yeshwantrao Hospital (MY Hospital)",
+            "city": "Indore",
+            "region": "Indore Central Zone",
+            "latitude": 22.7452,
+            "longitude": 75.8919,
+            "rating": 4.6,
+            "reviews_count": 3400,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Indore",
+            "emergency_hotline": "+91-53-4858-7089",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Indore offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_ind_10",
+            "name": "Greater Kailash Hospital",
+            "city": "Indore",
+            "region": "Indore Central Zone",
+            "latitude": 22.7126,
+            "longitude": 75.8749,
+            "rating": 4.7,
+            "reviews_count": 6750,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Indore",
+            "emergency_hotline": "+91-81-7643-6385",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Indore offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_bhu_01",
+            "name": "AIIMS Bhubaneswar",
+            "city": "Bhubaneswar",
+            "region": "Bhubaneswar Central Zone",
+            "latitude": 20.2931,
+            "longitude": 85.7905,
+            "rating": 4.9,
+            "reviews_count": 5800,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Bhubaneswar",
+            "emergency_hotline": "+91-15-8811-8958",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Bhubaneswar offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_bhu_02",
+            "name": "SUM Ultimate Medicare",
+            "city": "Bhubaneswar",
+            "region": "Bhubaneswar Central Zone",
+            "latitude": 20.329,
+            "longitude": 85.8587,
+            "rating": 4.8,
+            "reviews_count": 4750,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Bhubaneswar",
+            "emergency_hotline": "+91-33-9558-3287",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Bhubaneswar offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_bhu_03",
+            "name": "KIMS Hospital (Kalinga Institute)",
+            "city": "Bhubaneswar",
+            "region": "Bhubaneswar Central Zone",
+            "latitude": 20.2772,
+            "longitude": 85.8374,
+            "rating": 4.9,
+            "reviews_count": 4900,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Bhubaneswar",
+            "emergency_hotline": "+91-15-2663-9217",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Bhubaneswar offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_bhu_04",
+            "name": "Apollo Hospitals Bhubaneswar",
+            "city": "Bhubaneswar",
+            "region": "Bhubaneswar Central Zone",
+            "latitude": 20.2714,
+            "longitude": 85.7999,
+            "rating": 4.7,
+            "reviews_count": 4150,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Bhubaneswar",
+            "emergency_hotline": "+91-30-8566-4159",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Bhubaneswar offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_bhu_05",
+            "name": "AMRI Hospital Bhubaneswar",
+            "city": "Bhubaneswar",
+            "region": "Bhubaneswar Central Zone",
+            "latitude": 20.2997,
+            "longitude": 85.8586,
+            "rating": 4.8,
+            "reviews_count": 7500,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Bhubaneswar",
+            "emergency_hotline": "+91-67-7198-6705",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Bhubaneswar offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_bhu_06",
+            "name": "Sparsh Hospital",
+            "city": "Bhubaneswar",
+            "region": "Bhubaneswar Central Zone",
+            "latitude": 20.2956,
+            "longitude": 85.8415,
+            "rating": 4.8,
+            "reviews_count": 5050,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Bhubaneswar",
+            "emergency_hotline": "+91-36-8545-8648",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Bhubaneswar offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_bhu_07",
+            "name": "Sunshine Hospital",
+            "city": "Bhubaneswar",
+            "region": "Bhubaneswar Central Zone",
+            "latitude": 20.2762,
+            "longitude": 85.7904,
+            "rating": 4.7,
+            "reviews_count": 4000,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Bhubaneswar",
+            "emergency_hotline": "+91-84-2441-1899",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Bhubaneswar offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_bhu_08",
+            "name": "Utkal Hospital",
+            "city": "Bhubaneswar",
+            "region": "Bhubaneswar Central Zone",
+            "latitude": 20.2682,
+            "longitude": 85.8509,
+            "rating": 4.8,
+            "reviews_count": 4150,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Bhubaneswar",
+            "emergency_hotline": "+91-25-6406-1117",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Bhubaneswar offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_bhu_09",
+            "name": "Hi-Tech Medical College & Hospital",
+            "city": "Bhubaneswar",
+            "region": "Bhubaneswar Central Zone",
+            "latitude": 20.2761,
+            "longitude": 85.8297,
+            "rating": 4.6,
+            "reviews_count": 3400,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Bhubaneswar",
+            "emergency_hotline": "+91-48-5211-4007",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Bhubaneswar offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_bhu_10",
+            "name": "Capital Hospital Bhubaneswar",
+            "city": "Bhubaneswar",
+            "region": "Bhubaneswar Central Zone",
+            "latitude": 20.2936,
+            "longitude": 85.8163,
+            "rating": 4.7,
+            "reviews_count": 6750,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Bhubaneswar",
+            "emergency_hotline": "+91-92-3600-4677",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Bhubaneswar offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_nag_01",
+            "name": "Alexis Multispecialty Hospital (Zulekha)",
+            "city": "Nagpur",
+            "region": "Nagpur Central Zone",
+            "latitude": 21.1784,
+            "longitude": 79.1027,
+            "rating": 4.9,
+            "reviews_count": 5800,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Nagpur",
+            "emergency_hotline": "+91-75-3500-5267",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Nagpur offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_nag_02",
+            "name": "KIMS Kingsway Hospital",
+            "city": "Nagpur",
+            "region": "Nagpur Central Zone",
+            "latitude": 21.119,
+            "longitude": 79.0708,
+            "rating": 4.8,
+            "reviews_count": 4750,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Nagpur",
+            "emergency_hotline": "+91-93-3521-5784",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Nagpur offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_nag_03",
+            "name": "Wockhardt Hospitals Nagpur",
+            "city": "Nagpur",
+            "region": "Nagpur Central Zone",
+            "latitude": 21.1613,
+            "longitude": 79.0943,
+            "rating": 4.9,
+            "reviews_count": 4900,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Nagpur",
+            "emergency_hotline": "+91-62-4900-6058",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Nagpur offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_nag_04",
+            "name": "Orange City Hospital & Research Institute",
+            "city": "Nagpur",
+            "region": "Nagpur Central Zone",
+            "latitude": 21.1706,
+            "longitude": 79.104,
+            "rating": 4.7,
+            "reviews_count": 4150,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Nagpur",
+            "emergency_hotline": "+91-73-2494-3119",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Nagpur offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_nag_05",
+            "name": "Care Hospitals Ramdaspeth",
+            "city": "Nagpur",
+            "region": "Nagpur Central Zone",
+            "latitude": 21.1346,
+            "longitude": 79.1192,
+            "rating": 4.8,
+            "reviews_count": 7500,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Nagpur",
+            "emergency_hotline": "+91-99-8501-2692",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Nagpur offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_nag_06",
+            "name": "Spandan Heart Institute",
+            "city": "Nagpur",
+            "region": "Nagpur Central Zone",
+            "latitude": 21.1635,
+            "longitude": 79.1042,
+            "rating": 4.8,
+            "reviews_count": 5050,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Nagpur",
+            "emergency_hotline": "+91-72-6741-7139",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Nagpur offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_nag_07",
+            "name": "Suretech Hospital",
+            "city": "Nagpur",
+            "region": "Nagpur Central Zone",
+            "latitude": 21.1659,
+            "longitude": 79.0963,
+            "rating": 4.7,
+            "reviews_count": 4000,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Nagpur",
+            "emergency_hotline": "+91-25-3933-8298",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Nagpur offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_nag_08",
+            "name": "Nelson Mother & Child Hospital",
+            "city": "Nagpur",
+            "region": "Nagpur Central Zone",
+            "latitude": 21.1425,
+            "longitude": 79.0953,
+            "rating": 4.8,
+            "reviews_count": 4150,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Nagpur",
+            "emergency_hotline": "+91-12-7795-7055",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Nagpur offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_nag_09",
+            "name": "Government Medical College Hospital (GMC Nagpur)",
+            "city": "Nagpur",
+            "region": "Nagpur Central Zone",
+            "latitude": 21.1149,
+            "longitude": 79.0591,
+            "rating": 4.6,
+            "reviews_count": 3400,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Nagpur",
+            "emergency_hotline": "+91-67-5907-2762",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Nagpur offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_nag_10",
+            "name": "Lata Mangeshkar Hospital",
+            "city": "Nagpur",
+            "region": "Nagpur Central Zone",
+            "latitude": 21.1666,
+            "longitude": 79.0782,
+            "rating": 4.7,
+            "reviews_count": 6750,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Nagpur",
+            "emergency_hotline": "+91-70-9519-1760",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Nagpur offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_guw_01",
+            "name": "Gauhati Medical College & Hospital (GMCH)",
+            "city": "Guwahati",
+            "region": "Guwahati Central Zone",
+            "latitude": 26.1779,
+            "longitude": 91.7687,
+            "rating": 4.9,
+            "reviews_count": 5800,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Guwahati",
+            "emergency_hotline": "+91-81-5509-9375",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Guwahati offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_guw_02",
+            "name": "Dr. B. Borooah Cancer Institute",
+            "city": "Guwahati",
+            "region": "Guwahati Central Zone",
+            "latitude": 26.1226,
+            "longitude": 91.7214,
+            "rating": 4.8,
+            "reviews_count": 4750,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Guwahati",
+            "emergency_hotline": "+91-27-7190-1256",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Guwahati offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_guw_03",
+            "name": "Apollo Hospitals Guwahati",
+            "city": "Guwahati",
+            "region": "Guwahati Central Zone",
+            "latitude": 26.1604,
+            "longitude": 91.7371,
+            "rating": 4.9,
+            "reviews_count": 4900,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Guwahati",
+            "emergency_hotline": "+91-68-5226-7718",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Guwahati offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_guw_04",
+            "name": "Health City Hospital",
+            "city": "Guwahati",
+            "region": "Guwahati Central Zone",
+            "latitude": 26.1751,
+            "longitude": 91.7659,
+            "rating": 4.7,
+            "reviews_count": 4150,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Guwahati",
+            "emergency_hotline": "+91-61-7640-6999",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Guwahati offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_guw_05",
+            "name": "Down Town Hospital",
+            "city": "Guwahati",
+            "region": "Guwahati Central Zone",
+            "latitude": 26.1671,
+            "longitude": 91.7427,
+            "rating": 4.8,
+            "reviews_count": 7500,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Guwahati",
+            "emergency_hotline": "+91-62-4404-5934",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Guwahati offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_guw_06",
+            "name": "Narayana Super Speciality Hospital Amingaon",
+            "city": "Guwahati",
+            "region": "Guwahati Central Zone",
+            "latitude": 26.1706,
+            "longitude": 91.7397,
+            "rating": 4.8,
+            "reviews_count": 5050,
+            "specialties": [
+                "Cardiology",
+                "Organ Transplant",
+                "Oncology",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "650 Beds",
+            "specialized_units": [
+                "24/7 Level-1 ER",
+                "Robotic Surgery Wing",
+                "Multi-Organ Transplant ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Guwahati",
+            "emergency_hotline": "+91-86-9813-4278",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 650 Beds quaternary care institute in Guwahati offering Cardiology, Organ Transplant, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_guw_07",
+            "name": "GNRC Hospitals Dispur",
+            "city": "Guwahati",
+            "region": "Guwahati Central Zone",
+            "latitude": 26.176,
+            "longitude": 91.7199,
+            "rating": 4.7,
+            "reviews_count": 4000,
+            "specialties": [
+                "Cardiology",
+                "Cardiothoracic Surgery",
+                "Neurosurgery",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "500 Beds",
+            "specialized_units": [
+                "24/7 Cardiac Cath Lab",
+                "Advanced Neuro ICU"
+            ],
+            "address": "Main Healthcare Corridor Road, Guwahati",
+            "emergency_hotline": "+91-99-8173-5238",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 500 Beds quaternary care institute in Guwahati offering Cardiology, Cardiothoracic Surgery, Neurosurgery and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_guw_08",
+            "name": "Swagat Super Speciality Surgical Institute",
+            "city": "Guwahati",
+            "region": "Guwahati Central Zone",
+            "latitude": 26.1562,
+            "longitude": 91.7014,
+            "rating": 4.8,
+            "reviews_count": 4150,
+            "specialties": [
+                "Gastroenterology",
+                "Nephrology",
+                "Oncology",
+                "Emergency Care"
+            ],
+            "accreditation": "NABH Accredited",
+            "bed_capacity": "450 Beds",
+            "specialized_units": [
+                "LINAC Cancer Center",
+                "Dialysis Center"
+            ],
+            "address": "Main Healthcare Corridor Road, Guwahati",
+            "emergency_hotline": "+91-82-9040-7674",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 450 Beds quaternary care institute in Guwahati offering Gastroenterology, Nephrology, Oncology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_guw_09",
+            "name": "Ayursundra Superspecialty Hospital",
+            "city": "Guwahati",
+            "region": "Guwahati Central Zone",
+            "latitude": 26.1097,
+            "longitude": 91.7402,
+            "rating": 4.6,
+            "reviews_count": 3400,
+            "specialties": [
+                "Oncology",
+                "Bone Marrow Transplant",
+                "Cardiology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "550 Beds",
+            "specialized_units": [
+                "CyberKnife Radiosurgery",
+                "Bone Marrow Transplant Unit"
+            ],
+            "address": "Main Healthcare Corridor Road, Guwahati",
+            "emergency_hotline": "+91-14-2846-8637",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 550 Beds quaternary care institute in Guwahati offering Oncology, Bone Marrow Transplant, Cardiology and 24/7 Emergency Care."
+        },
+        {
+            "id": "hosp_guw_10",
+            "name": "Hayat Hospital",
+            "city": "Guwahati",
+            "region": "Guwahati Central Zone",
+            "latitude": 26.1693,
+            "longitude": 91.7312,
+            "rating": 4.7,
+            "reviews_count": 6750,
+            "specialties": [
+                "Cardiology",
+                "Robotic Organ Surgery",
+                "Neurology",
+                "Emergency Care"
+            ],
+            "accreditation": "JCI & NABH Accredited",
+            "bed_capacity": "1000 Beds",
+            "specialized_units": [
+                "Asia's Largest Robotic Surgery Suite",
+                "24/7 Trauma"
+            ],
+            "address": "Main Healthcare Corridor Road, Guwahati",
+            "emergency_hotline": "+91-56-9797-9152",
+            "icu_beds_available": true,
+            "er_24_7": true,
+            "description": "Premier 1000 Beds quaternary care institute in Guwahati offering Cardiology, Robotic Organ Surgery, Neurology and 24/7 Emergency Care."
+        }
+    ]
+}

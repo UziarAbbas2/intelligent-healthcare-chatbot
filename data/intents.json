@@ -1,0 +1,116 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hello",
+                "Hey",
+                "Good morning",
+                "Good evening",
+                "Is anyone there?",
+                "Greetings",
+                "Hi doctor",
+                "Hello chatbot",
+                "Hey assistant",
+                "Start chat",
+                "Namaste",
+                "Vanakkam"
+            ],
+            "responses": [
+                "Hello! I am your Advanced Healthcare Chatbot. How can I assist you with clinical symptom analysis, top Indian doctors, or major hospital finder today?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "See you later",
+                "Goodbye",
+                "Have a good day",
+                "Exit",
+                "Close chat",
+                "Thanks bye"
+            ],
+            "responses": [
+                "Goodbye! Prioritize your health and take care."
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "That was helpful",
+                "Awesome thanks",
+                "Appreciate your help",
+                "Thank you doctor",
+                "Dhanyawad",
+                "Nandri"
+            ],
+            "responses": [
+                "You're very welcome! Always happy to assist with your medical queries."
+            ]
+        },
+        {
+            "tag": "symptom_check",
+            "patterns": [
+                "I am feeling sick",
+                "I have some symptoms",
+                "Can you check my symptoms?",
+                "What disease do I have?",
+                "I feel unwell",
+                "Diagnose my condition"
+            ],
+            "responses": [
+                "Please select or type your symptoms so our PyTorch Neural Network can run an advanced diagnostic analysis."
+            ]
+        },
+        {
+            "tag": "emergency",
+            "patterns": [
+                "I have severe chest pain",
+                "I can't breathe",
+                "Sudden numbness in arm",
+                "Severe bleeding won't stop",
+                "Heart attack symptoms",
+                "Coughing up blood",
+                "Call emergency",
+                "Ambulance needed",
+                "Loss of consciousness",
+                "Emergency hospital"
+            ],
+            "responses": [
+                "\ud83d\udea8 EMERGENCY WARNING: Your symptoms sound critical! Please call emergency services (108 / 112) or visit the nearest 24/7 ER immediately."
+            ]
+        },
+        {
+            "tag": "hospital_finder",
+            "patterns": [
+                "Find hospitals near me",
+                "Show top hospitals in India",
+                "Best hospitals in Mumbai",
+                "Hospitals in Delhi",
+                "Hospitals in Bangalore",
+                "Hospitals in Chennai",
+                "Hospitals in Hyderabad",
+                "Hospitals in Kolkata"
+            ],
+            "responses": [
+                "Here are top-rated JCI / NABH accredited hospitals equipped with 24/7 Emergency Care and specialized surgical suites."
+            ]
+        },
+        {
+            "tag": "doctor_finder",
+            "patterns": [
+                "Find top doctors",
+                "Recommend cardiac surgeons",
+                "Best neurologists in India",
+                "Top doctors in Chennai"
+            ],
+            "responses": [
+                "Here are top recommended specialist doctors and surgeons across major Indian medical centers."
+            ]
+        }
+    ]
+}
